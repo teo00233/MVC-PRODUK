@@ -10,4 +10,4 @@ Aplikasi CRUD Katalog Barang berbasis arsitektur Model-View-Controller (MVC) PHP
 
 ## Panduan Penggunaan
 1. Import database `database/produk.sql` ke phpMyAdmin (`toko_db`).
-2. Akses melalui browser: `http://localhost/mvc-native/public/index.php`
+2. Akses melalui browser: `http://localhost/mvc_produk/public/index.php`
